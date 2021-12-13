@@ -78,6 +78,13 @@ public class Knife4jConfig {
 ![(C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20211213095127094.png)
 
 
+![image-1](https://github.com/Mingxiang007/springboot-demos/blob/main/springboot-1-knife/images/1.jpg)
+![image-2](https://github.com/Mingxiang007/springboot-demos/blob/main/springboot-1-knife/images/2.jpg)
+
+
+
+
+
 
 4、使用配置文件信息进行登录
 
